@@ -1,0 +1,31 @@
+Designator,Component,Qty,Cost per unit (INR),Total cost (INR),Source,Material type
+U1,"AP1509-50SG-13 buck regulator IC, fixed 5 V output",1,80,80,LCSC,Semiconductor
+U2,ESP32-CAM module with OV2640 image sensor,1,350,340,Robu,Semiconductor
+L1,"RLB0912-470KL1 shielded power inductor, 47 µH, 2.5 A",1,40,40,LCSC,Composite
+"D1, D3–D9","LD274 infrared emitter LED, 950 nm",8,5,40,Robu,Semiconductor
+D2,"1N4007 rectifier diode, reverse polarity protection",1,2,2,Robu,Semiconductor
+D10,"SS34 Schottky diode, 3 A, 40 V",1,5,5,Robu,Semiconductor
+"D11, D12","Indicator LED, 5 mm, through-hole",2,3,6,Robu,Semiconductor
+"Q1, Q2",2N2222A NPN bipolar junction transistor,2,4,8,Robu,Semiconductor
+R1–R8,"Resistor, 2 kΩ, 1/4 W",8,1,8,Robu,Non-specific
+R9,"Resistor, 6.8 kΩ, 1/4 W",1,1,1,Robu,Non-specific
+R10,"Resistor, 2.5 kΩ, 1/4 W",1,1,1,Robu,Non-specific
+"R11, R12","Resistor, 10 kΩ, 1/4 W",2,1,2,Robu,Non-specific
+C1,"Electrolytic capacitor, 22 µF",1,4,4,Robu,Non-specific
+C2,"Electrolytic capacitor, 10 µF",1,3,3,Robu,Non-specific
+"C3, C4, C5, C7","Electrolytic capacitor, 100 µF",4,4,16,Robu,Non-specific
+C6,"Electrolytic capacitor, 22 µF",1,4,4,Robu,Non-specific
+J1,"DC input header, 2 pin",1,10,10,Robu,Polymer
+J2,"Programming header, 6 pin",1,10,10,Robu,Polymer
+BAT1,"18650 lithium-ion cell, 3.7 V, 2600 mAh",1,150,140,Robu,Electrochemical
+BAT-HOLD,"18650 cell holder, single-cell",1,20,20,Robu,Polymer
+PV1,"Photovoltaic panel, 6 V, mini format",1,60,50,Robu,Semiconductor
+CHG1,Off-the-shelf lithium-ion charging module,1,25,25,Robu,Semiconductor
+BOOST1,Off-the-shelf step-up DC–DC converter module,1,30,30,Robu,Semiconductor
+ACR1,Transparent acrylic optical window,1,15,15,Local,Polymer
+MECH1,"Threaded bar set, 2 pieces",1,10,10,Local,Metal
+MECH2,"Wing nut, 2 pieces",1,5,5,Local,Metal
+MECH3,Mounting bolts and clip nuts,1,5,5,Local,Metal
+FIL1,"3D printing filament for enclosure, per unit",1,50,40,Local,Polymer
+PCB,"Custom fabricated PCB, two-layer, circular",1,40,30,JLCPCB,Composite
+,,,Total,950,,
